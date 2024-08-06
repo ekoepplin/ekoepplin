@@ -19,7 +19,6 @@
 </tr>
 <tr>
 <td>
-<p align="center"><a href="https://github.com/ekoepplin"><img src="https://github-readme-stats.vercel.app/api?username=ekoepplin&hide_border=true&show_icons=true" alt="Eugen's github stats"></a></p>
 
 </td>
 <td>
