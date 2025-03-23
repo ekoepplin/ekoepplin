@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://datadidact.com" target="_blank" rel="noreferrer">
 </h2>
 
 <h3 align="center">
-I love working with a data
+I love working with data
 </h3> 
 
 
