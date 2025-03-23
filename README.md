@@ -8,7 +8,6 @@
 <td valign="top" width="60%">
 
 #### 
-🔭 I’m currently busy with [ScaledBI](https://github.com/ScaledBI)
 
 <!-- recent_releases ends -->
 </td>
